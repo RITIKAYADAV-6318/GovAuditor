@@ -278,11 +278,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1oqTpjWhHeT8Dx56lEuInLc
    `npm run dev`
 
 
-
-Project Status
-
-🚧 In Active Development
-
 License
 
 This project is developed for educational purposes.
